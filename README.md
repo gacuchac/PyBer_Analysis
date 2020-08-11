@@ -6,4 +6,4 @@ For that, a summary DataFrame and a line plot were created.
 
 ## Results
 The following table shows a summary of the rides and fares by city type.
-![](Resources/DF_Summary.png)
+![](analysis/DF_Summary.png)
