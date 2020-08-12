@@ -11,5 +11,7 @@ For that, a summary DataFrame and a line plot were created.
 - When analysing the *Average Fare per Ride*, *Average Fare per Driver* and *Average Rides per Driver* columns, the city type appears to indicate a negative correlation to this variable. This is because the number of rides per city type grows slower than the number of drivers per city type.
 - It is very interesting to see that for *Urban* cities, there are more drivers than rides. This explains the jump in *Average Fare per Driver* between the city types. Since the *Average Rides per Driver* column is a good indicator for the demand and supply relation, it is a good indicator for *Average Fare per Ride* and *Average Fare per Driver*. 
 ### Fares in time
-![](analysis/PyBer_fare_summary.png) ![](analysis/Fares_statistics.png)
+Fares in time                          | Statistics
+--------------------------------------:|:--------------------------------
+![](analysis/PyBer_fare_summary.png)   | ![](analysis/Fares_statistics.png)
 - The *Suburban* and *Rural* fares seem to be very flat 
